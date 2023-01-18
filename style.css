@@ -115,6 +115,7 @@ label {
     display: block;
     margin-inline: auto;
     width: 90%;
+    background-color: #FFF;
 }
 
 #todo-description:focus, #todo-title:focus {
