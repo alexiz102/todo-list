@@ -21,7 +21,7 @@ body {
 .container {
     margin-inline: auto;
     margin-block: 2rem;
-    width: clamp(25rem, 90vw, 50rem);
+    width: clamp(30rem, 90vw, 50rem);
     border-radius: 20px;
     background-color: var(--container-color);
 }
