@@ -19,7 +19,7 @@ body {
 }
 
 .container {
-    margin-inline: auto;
+    margin-inline: 1rem;
     margin-block: 2rem;
     width: clamp(30rem, 90vw, 50rem);
     border-radius: 20px;
